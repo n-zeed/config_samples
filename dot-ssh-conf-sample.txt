@@ -1,0 +1,5 @@
+# Sample file:  .ssh/config
+Host github.com
+    HostName github.com
+    User cgarcia
+    IdentityFile ~/ssh_keys/private_key
